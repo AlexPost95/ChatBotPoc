@@ -1,0 +1,237 @@
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Bonc start.dll.config
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Bonc start.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Bonc start.pdb
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Autofac.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Chronic.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\EntityFramework.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\EntityFramework.SqlServer.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Bot.Builder.Azure.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Bot.Builder.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Bot.Builder.History.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Bot.Connector.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Data.Edm.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Data.OData.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Data.Services.Client.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Newtonsoft.Json.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\System.Net.Http.Formatting.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\System.Spatial.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\System.Web.Http.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\System.Web.Http.WebHost.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Autofac.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\EntityFramework.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\EntityFramework.SqlServer.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Bot.Builder.pdb
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Bot.Builder.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Bot.Builder.Azure.pdb
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Bot.Builder.Azure.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Bot.Builder.History.pdb
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Bot.Builder.History.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Bot.Connector.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Data.Edm.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Data.OData.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Data.Services.Client.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\Newtonsoft.Json.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\System.Net.Http.Formatting.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\System.Spatial.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\System.Web.Http.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\System.Web.Http.WebHost.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\el\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\de\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\es\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\fr\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\it\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ja\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ko\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\ru\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\obj\Release\Bonc start.csprojAssemblyReference.cache
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\obj\Release\Bonc start.csproj.CoreCompileInputs.cache
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\obj\Release\Bonc start.csproj.CopyComplete
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\obj\Release\Bonc start.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc start without database\Bonc start\obj\Release\Bonc start.pdb
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Bonc start.dll.config
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Bonc start.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Bonc start.pdb
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\AdaptiveCards.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Autofac.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Chronic.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\EntityFramework.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\EntityFramework.SqlServer.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Bot.Builder.Azure.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Bot.Builder.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Bot.Builder.History.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Bot.Connector.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Data.Edm.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Data.OData.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Data.Services.Client.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Newtonsoft.Json.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\System.Net.Http.Formatting.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\System.Spatial.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\System.Web.Http.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\System.Web.Http.WebHost.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Autofac.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\EntityFramework.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\EntityFramework.SqlServer.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Bot.Builder.pdb
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Bot.Builder.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Bot.Builder.Azure.pdb
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Bot.Builder.Azure.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Bot.Builder.History.pdb
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Bot.Builder.History.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Bot.Connector.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Data.Edm.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Data.OData.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Data.Services.Client.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\Newtonsoft.Json.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\System.Net.Http.Formatting.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\System.Spatial.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\System.Web.Http.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\System.Web.Http.WebHost.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\el\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\de\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\es\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\fr\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\it\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ja\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ko\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\ru\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\obj\Release\Bonc start.csprojAssemblyReference.cache
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\obj\Release\Bonc start.csproj.CoreCompileInputs.cache
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\obj\Release\Bonc start.csproj.CopyComplete
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\obj\Release\Bonc start.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Bonc\Bonc-PoC\Bonc start\obj\Release\Bonc start.pdb
