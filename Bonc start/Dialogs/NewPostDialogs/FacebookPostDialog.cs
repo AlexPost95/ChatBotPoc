@@ -6,10 +6,12 @@ using System.Collections.Generic;
 using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Bonc_start.Dialogs.NewPostDialogs
 {
+
     [Serializable]
     public class FacebookPostDialog : IDialog<object>
     {
@@ -21,7 +23,9 @@ namespace Bonc_start.Dialogs.NewPostDialogs
         private string textToPost;
         private string imageToPost;
 
-        
+        [NonSerialized]
+        Timer t;
+
         /// <summary>
         /// Show welcome message and ask what text the user would like to add to the post.
         /// </summary>
@@ -29,7 +33,9 @@ namespace Bonc_start.Dialogs.NewPostDialogs
         /// <returns></returns>
         public async Task StartAsync(IDialogContext context)
         {
+            
             await context.PostAsync(welcomeMessage);
+
 
             PromptDialog.Text(
                 context: context,
@@ -37,6 +43,12 @@ namespace Bonc_start.Dialogs.NewPostDialogs
                 prompt: promptText,
                 retry: promptTextFail
                 );
+        }
+
+        public void timerEvent(object target)
+        {
+            t.Dispose();
+            ConversationStarter.Resume(ConversationStarter.conversationId, ConversationStarter.channelId); //We don't need to wait for this, just want to start the interruption here
         }
 
         /// <summary>
@@ -47,8 +59,21 @@ namespace Bonc_start.Dialogs.NewPostDialogs
         /// <returns></returns>
         public virtual async Task ChoiceReceivedAsync(IDialogContext context, IAwaitable<string> text)
         {
+            var message = context.Activity;
             textToPost = await text;
+
+            ConversationStarter.toId = message.From.Id;
+            ConversationStarter.toName = message.From.Name;
+            ConversationStarter.fromId = message.Recipient.Id;
+            ConversationStarter.fromName = message.Recipient.Name;
+            ConversationStarter.serviceUrl = message.ServiceUrl;
+            ConversationStarter.channelId = message.ChannelId;
+            ConversationStarter.conversationId = message.Conversation.Id;
+
             await context.PostAsync($"Ik heb de volgende tekst doorgekregen: '{textToPost}'");
+
+            t = new Timer(new TimerCallback(timerEvent));
+            t.Change(15000, Timeout.Infinite);
 
             PromptDialog.Text(
                 context: context,

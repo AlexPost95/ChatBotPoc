@@ -160,6 +160,7 @@
     <Compile Include="Dialogs\AccountDialogs\ConnectedChannelsDialog.cs" />
     <Compile Include="Dialogs\AccountDialogs\PaymentInfoDialog.cs" />
     <Compile Include="Dialogs\AccountDialogs\UserAccountsOverviewDialog.cs" />
+    <Compile Include="Dialogs\ConversationStarter.cs" />
     <Compile Include="Dialogs\InstructionDialogs\InstructionDialog.cs" />
     <Compile Include="Dialogs\InstructionDialogs\NewCompanyPageInstructionsDialog\CompanyFacebookPageInstrucionsDialog.cs" />
     <Compile Include="Dialogs\InstructionDialogs\NewCompanyPageInstructionsDialog\CompanyLinkedinPageInstrucionsDialog.cs" />
