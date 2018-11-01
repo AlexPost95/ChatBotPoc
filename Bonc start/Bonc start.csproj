@@ -183,6 +183,7 @@
     <Compile Include="Dialogs\SettingsDialogs\PrivacySettingsDialog.cs" />
     <Compile Include="Dialogs\SettingsDialogs\SecuritySettingsDialog.cs" />
     <Compile Include="Dialogs\SettingsDialogs\SettingsDialog.cs" />
+    <Compile Include="Dialogs\TestDialog.cs" />
     <Compile Include="Dialogs\WelcomeBackDialog.cs" />
     <Compile Include="Dialogs\WelcomeDialog.cs" />
     <Compile Include="Global.asax.cs">

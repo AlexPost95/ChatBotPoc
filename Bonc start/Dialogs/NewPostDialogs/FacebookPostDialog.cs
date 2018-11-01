@@ -33,9 +33,7 @@ namespace Bonc_start.Dialogs.NewPostDialogs
         /// <returns></returns>
         public async Task StartAsync(IDialogContext context)
         {
-            
             await context.PostAsync(welcomeMessage);
-
 
             PromptDialog.Text(
                 context: context,
@@ -70,10 +68,16 @@ namespace Bonc_start.Dialogs.NewPostDialogs
             ConversationStarter.channelId = message.ChannelId;
             ConversationStarter.conversationId = message.Conversation.Id;
 
+            if (true)
+            {
+                context.Call<object>(new Dialogs.TestDialog(), DialogComplete);
+
+            }
+                
             await context.PostAsync($"Ik heb de volgende tekst doorgekregen: '{textToPost}'");
 
             t = new Timer(new TimerCallback(timerEvent));
-            t.Change(15000, Timeout.Infinite);
+            t.Change(5000, Timeout.Infinite);
 
             PromptDialog.Text(
                 context: context,
@@ -93,6 +97,9 @@ namespace Bonc_start.Dialogs.NewPostDialogs
         /// <returns></returns>
         public virtual async Task PostCreatedAsync(IDialogContext context, IAwaitable<string> image)
         {
+            t = new Timer(new TimerCallback(timerEvent));
+            t.Change(5000, Timeout.Infinite);
+
             imageToPost = await image;
 
             await context.PostAsync("Ik heb de volgende Facebook-post voor je samengesteld:");
